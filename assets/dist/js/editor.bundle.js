@@ -1,0 +1,3 @@
+/*! For license information please see editor.bundle.js.LICENSE.txt */
+(()=>{"use strict";var r={"./src/sass/editor.scss":(r,e,s)=>{s.r(e)}},e={};function s(t){var o=e[t];if(void 0!==o)return o.exports;var i=e[t]={exports:{}};return r[t](i,i.exports,s),i.exports}s.r=r=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(r,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(r,"__esModule",{value:!0})};var t={};s.r(t),s("./src/sass/editor.scss")})();
+//# sourceMappingURL=editor.bundle.js.map
